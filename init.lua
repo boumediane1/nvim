@@ -14,4 +14,4 @@ autocmd("TextYankPost", {
 	end,
 })
 
-require("config.plugins").setup()
+require("config.plugins")
