@@ -25,6 +25,7 @@ vim.pack.add({
 	{ src = "https://github.com/mg979/vim-visual-multi" },
 	{ src = "https://github.com/nvim-lua/plenary.nvim" },
 	{ src = "https://github.com/neogitorg/neogit" },
+	{ src = "https://github.com/christoomey/vim-tmux-navigator" },
 })
 
 require("tokyonight").setup({
